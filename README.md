@@ -7,11 +7,11 @@
 ## Project Demonstrations
 | Smart Mode (Autonomous) | Manual Control (User Interface) |
 | :---: | :---: |
-| [![Smart Mode](https://drive.google.com/file/d/1mlAD-otkTxOGuH70f0u184x38u8mgbNT/view?usp=sharing)] | [![Manual Mode](https://drive.google.com/file/d/11lhb7XhDlqVAm-STpD-Mb5bhcJ3Seqlm/view?usp=sharing)] |
+| [![Watch Demo](https://img.shields.io/badge/Video-Watch_Demo-orange?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1mlAD-otkTxOGuH70f0u184x38u8mgbNT/view?usp=sharing) | [![Watch Demo](https://img.shields.io/badge/Video-Watch_Demo-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/11lhb7XhDlqVAm-STpD-Mb5bhcJ3Seqlm/view?usp=sharing) |
 
 ---
 
-## 📸 System Overview
+## System Overview
 The dashboard features a modern Glassmorphism UI, providing a seamless monitoring and control experience across all devices.
 
 ![Dashboard Top](assets/dashboard1.jpg)
